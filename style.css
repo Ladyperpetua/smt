@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&family=Raleway&display=swap');
+
+html,body{
+    margin: 0;
+    background-color: rgb(233,235, 236);
+}
+*{
+    margin: 0;
+    font-family: "Poppins";
+}
+
+.nav-bar{
+    background-color: rgb(77, 99, 111);
+    display: flex;
+}
+.nav-text{
+    color: white;
+    background-color: rgb(58,75,83) ;
+   
+    padding: 10px;
+    align-items: center;
+    width: 5%;
+    transition: all ease 0.5s;
+    padding-left: 15px;
+}
+.nav-text:hover{
+    color: black;
+    background-color: rgb(226, 225, 225);
+}
+.profile{
+    background-color: white;
+    padding: 40px;
+    width: 200px
+}
+.profile-text{
+   text-align: center;
+   align-items: center;
+    justify-content: center;
+
+}
+.profile-text2{
+    text-align: left;
+    padding-top: 10px;
+    margin-left: -20px;
+
+}
+.profile-img{
+    margin-left: 30px;
+    padding-top: 15px;
+}
+.left{
+    width: 23%;
+    margin: 15px;
+
+}
+.section-content{
+    display: flex;
+    
+}
+.status{
+    background-color: white;
+ width: 740px;
+ padding: 20px;
+ margin-top: 15px;
+ 
+}
+.status-content{
+    font-size: 15px;
+    width: 720px;
+    outline: none;
+    
+}
+.status-text{
+    color: white;
+    background-color: rgb(77, 99, 111);
+    border: none;
+    padding: 10px 20px;
+}
+.event{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 20px;
+    text-align: center;
+    padding-bottom: 15px;
+    width: 220px;
+    margin-right: 20px;
+}
+.event-button{
+    padding: 8px 70px;
+    border: none;
+   background-color: rgb(223, 229, 232 );
+color: black;
+}
+.event-text{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.event-content{
+    align-items: center;
+}
+.my-content{
+    background-color:  rgb(77, 99, 111);
+    color: white;
+    padding: 20px;
+    /* padding-left: 0px;
+    padding-right: 0px; */
+    width: 240px;
+    margin-top: 20px;
+    text-align: left;
+}
+.my-content-text{
+    padding-top: 12px;
+}
+.status-text:hover{
+    color: black;
+    background-color: rgb(226, 225, 225);
+}
+.my-content-text:hover{
+    color: black;
+    background-color: rgb(226, 225, 225);
+}
+.interest-content{
+       background-color: white;
+       padding: 20px;
+       padding-top: 20px;
+       margin-top: 20px;
+}
+.button1{
+    background-color: rgb(48, 62, 69);
+    border: none;
+}
+.button2{
+    background-color: rgb(58, 75, 83);
+    border: none;
+}
+.button3{
+    background-color: rgb(67, 87, 97);
+    border: none;
+}
+.button4{
+    background-color: rgb(77, 99, 111);
+    border: none;
+}
+.button5{
+    background-color: rgb(87, 112, 125);
+    border: none;
+}
+.button6{
+    background-color: rgb(96, 125, 139);
+    border: none;
+}
+.button7{
+    background-color: rgb(125, 151, 165);
+    border: none;
+}
+.button8{
+    background-color: rgb(158, 177, 187);
+    border: none;
+}
+.button9{
+    background-color: rgb(190, 203, 210);
+    border: none;
+}
+.button10{
+    background-color: rgb(223, 229, 232);
+    border: none;
+}
+.button11{
+    background-color: rgb(245, 247, 248);
+    border: none;
+}
+.hey-content{
+    background-color: rgb(223, 229, 232);
+    padding: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+.request-content{
+    background-color:white;
+    padding: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-bottom: 15px;
+    margin-right: 20px;
+}
+.request-text{
+    text-align: center;
+}
+.request-img{
+    align-items: center;
+    margin-left: 50px;
+    padding-top: 10px;
+}
+.ads-content{
+    background-color:white;
+    padding: 10px;
+    padding-top: 20px;
+    margin-top: 20px; 
+    margin-left: 20px;
+    padding-bottom: 15px;
+    margin-right: 20px; 
+}
+.ads-text{
+    text-align: center;
+}
+.logo-content{
+    background-color:white;
+    padding: 10px;
+    padding-top: 20px;
+    margin-top: 20px; 
+    margin-left: 20px;
+    padding-bottom: 15px;
+    margin-right: 20px;
+}
+.hero{
+    display: flex;
+}
